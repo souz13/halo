@@ -1,0 +1,224 @@
+
+{
+"version": "eosio::abi/1.2",
+"types": [
+],
+"structs": [
+{
+"name": "adex",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "arblegone",
+"base": "",
+"fields": [...] // 7 items
+},
+{
+"name": "arblegtwo",
+"base": "",
+"fields": [...] // 7 items
+},
+{
+"name": "arblegtwoadd",
+"base": "",
+"fields": [...] // 7 items
+},
+{
+"name": "beforelegone",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "checkbalance",
+"base": "",
+"fields": [...] // 3 items
+},
+{
+"name": "checkbalext",
+"base": "",
+"fields": [...] // 4 items
+},
+{
+"name": "clear",
+"base": "",
+"fields": [...] // 0 items
+},
+{
+"name": "contracts",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "data",
+"base": "",
+"fields": [...] // 3 items
+},
+{
+"name": "extended_symbol",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "microseconds",
+"base": "",
+"fields": [...] // 1 items
+},
+{
+"name": "pswap",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "redeemalllend",
+"base": "",
+"fields": [...] // 2 items
+},
+{
+"name": "savebalance",
+"base": "",
+"fields": [...] // 4 items
+},
+{
+"name": "success",
+"base": "",
+"fields": [...] // 3 items
+},
+{
+"name": "supertrade",
+"base": "",
+"fields": [...] // 3 items
+},
+{
+"name": "sxsxlegone",
+"base": "",
+"fields": [...] // 10 items
+},
+{
+"name": "sxsxsxlegone",
+"base": "",
+"fields": [...] // 14 items
+},
+{
+"name": "trade",
+"base": "",
+"fields": [...] // 2 items
+}
+],
+"actions": [
+{
+"name": "arblegone",
+"type": "arblegone",
+"ricardian_contract": ""
+},
+{
+"name": "arblegtwo",
+"type": "arblegtwo",
+"ricardian_contract": ""
+},
+{
+"name": "arblegtwoadd",
+"type": "arblegtwoadd",
+"ricardian_contract": ""
+},
+{
+"name": "checkbalance",
+"type": "checkbalance",
+"ricardian_contract": ""
+},
+{
+"name": "checkbalext",
+"type": "checkbalext",
+"ricardian_contract": ""
+},
+{
+"name": "clear",
+"type": "clear",
+"ricardian_contract": ""
+},
+{
+"name": "redeemalllend",
+"type": "redeemalllend",
+"ricardian_contract": ""
+},
+{
+"name": "savebalance",
+"type": "savebalance",
+"ricardian_contract": ""
+},
+{
+"name": "supertrade",
+"type": "supertrade",
+"ricardian_contract": ""
+},
+{
+"name": "sxsxlegone",
+"type": "sxsxlegone",
+"ricardian_contract": ""
+},
+{
+"name": "sxsxsxlegone",
+"type": "sxsxsxlegone",
+"ricardian_contract": ""
+},
+{
+"name": "trade",
+"type": "trade",
+"ricardian_contract": ""
+}
+],
+"tables": [
+{
+"name": "adex",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "adex"
+},
+{
+"name": "beforelegone",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "beforelegone"
+},
+{
+"name": "contracts",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "contracts"
+},
+{
+"name": "data",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "data"
+},
+{
+"name": "pswap",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "pswap"
+},
+{
+"name": "success",
+"index_type": "i64",
+"key_names": [...], // 0 items
+"key_types": [...], // 0 items
+"type": "success"
+}
+],
+"ricardian_clauses": [
+],
+"error_messages": [
+],
+"abi_extensions": [
+],
+"variants": [
+],
+"action_results": [
+]
+}
